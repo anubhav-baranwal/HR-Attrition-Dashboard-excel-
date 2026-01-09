@@ -37,6 +37,10 @@ Slicers & Advanced Formatting
 
 To identify attrition trends and support data-driven HR decisions using Excel.
 
+Dashboard Screnshot
+
+HR Attrition Dashboard.png
+
 👤 Author
 
 Anubhav Baranwal
